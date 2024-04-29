@@ -37,4 +37,3 @@ This game was created by [NeoMit](https://github.com/neomitt) and is licensed un
 
 ---
 
-Enjoy the thrill of jumping in Awesome Jump Game! If you have any questions or need assistance, feel free to reach out.
